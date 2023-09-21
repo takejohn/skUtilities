@@ -4,3 +4,4 @@ manifest.mf
 libraries
 discord.xml
 .idea
+/*.iml
